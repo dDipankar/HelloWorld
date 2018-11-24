@@ -1,3 +1,4 @@
 # HelloWorld
-Hi there!
+Hi there :)
 This is a test
+this is another test
